@@ -27,3 +27,4 @@ Arguments:
 After the app finishes, it will print out the score achieved and save a csv file with the name of the benchmark with the responses to each sample.
 
 To add a new benchmark, first of all we need the translated dataset to be pushed to huggingface and then we need to extend the PromptPrepper and ResultsParser classes if necessary to accommodate for the new benchmark.
+aasdzx 3695
